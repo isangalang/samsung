@@ -1,2 +1,2 @@
-# samsung10-31
+# samsung10/31
 Jika tegangan pada keluaran BAT_ID tidak sama dengan tegangan pada baterai, maka part atau komponen yang harus diperiksa adalah...
